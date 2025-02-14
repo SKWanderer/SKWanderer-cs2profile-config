@@ -1,4 +1,4 @@
-**SKWanderer's CS2 Profile**
+# SKWanderer's CS2 Profile
 
 **Liquipedia url:** **[https://liquipedia.net/counterstrike/User:QGN](Liquipedia)**
 
