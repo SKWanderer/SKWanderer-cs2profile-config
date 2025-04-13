@@ -7,7 +7,7 @@
 - HUD       `hud_scaling 0.85;cl_hud_color 10;cl_showloadout 1;safezonex 1;safezoney 0.959016`
 - Viewmodel      `viewmodel_presetpos 0;viewmodel_offset_x 2.5;viewmodel_offset_y 2;viewmodel_offset_z -2;viewmodel_fov 68;cl_prefer_lefthanded 0`
 - Radar            `cl_hud_radar_scale 1.3;cl_radar_scale 0.4;cl_radar_always_centered 1;cl_radar_rotate 1;cl_radar_icon_scale_min 0.6`
-- Launch options    `-language english -console -allow_third_party_software +exec gp +exec tiaotou`
+- Launch options    `-language english -console -allow_third_party_software -freq 360`
 
 ### Gears
 
