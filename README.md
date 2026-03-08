@@ -44,7 +44,7 @@
 - **Crosshairsize** : `2`
 - **Crosshairthickness** : `0.5`     
 - **Crosshairgap** : `-4`
-- **Crosshaircolor** : `RGB(68,255,178)`
+- **Crosshaircolor** : `RGB(68,255,178) Aqua`
 - **Sharecode** `CSGO-MBFwn-m9qEd-ZaFQ9-rj79i-EaVvD`
 - **Commands** `cl_crosshairalpha 255; cl_crosshaircolor 5; cl_crosshaircolor_r 68; cl_crosshaircolor_g 255; cl_crosshaircolor_b 178; cl_crosshairdot 0; cl_crosshairgap -3; cl_crosshairsize 2.5; cl_crosshairstyle 4; cl_crosshairusealpha 1; cl_crosshairthickness 0.5; cl_crosshair_sniper_width 1; cl_crosshair_outlinethickness 0; cl_crosshair_drawoutline 0;`
 
