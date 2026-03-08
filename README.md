@@ -11,11 +11,11 @@
 
 ### Gears
 
-- **Mouse** : `Razer Viper v2 Pro`
+- **Mouse** : `Razer Viper v3 Pro`
 - **Mousepad** : `Steelseries QCK LARGE`
-- **Keyboard** : `Razer Huntman V3 Mini`
+- **Keyboard** : `Wooting 60HE V2`
 - **Headset** : `Razer Blackshark V2 Pro`
-- **In-Ear** : `Razer Moray`
+- **In-Ear** : `QDC Anole V3 II-S`
 - **Monitor** : `ZOWIE XL2566K 360Hz`
 
 ### Computer Specification
@@ -33,7 +33,7 @@
 - **Windows** : `Windows 10 Pro 22H2`
 - **Dpi** : `1200 (1000Hz)`
 - **Windows Sensitivity** : `6/11`
-- **Sensitivity** : `0.68`
+- **Sensitivity** : `0.5`
 - **Zoom Sensitivity** : `0.92`
 - **Aspect Ratio** : `4:3`
 - **Resolution** : `1280x960`
@@ -56,3 +56,5 @@
 - **Youtube** **[https://www.youtube.com/@SharkMarkQGN](Youtube)**
 - **Bilibili** **[https://space.bilibili.com/1124451443](Bilibili)**
 - **HuyaTVLive** **[https://www.huya.com/25153466](HuyaTV)**
+- **Liquipedia** **[https://liquipedia.net/counterstrike/User:QGN](Liquipeida)**
+- **Spotify** **[https://open.spotify.com/user/31s6l3pauue2iasmjieisa73fp74?si=aa78ef1198c74fb8](Spotify)**
