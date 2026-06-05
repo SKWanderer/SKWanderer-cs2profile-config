@@ -13,7 +13,7 @@
 ### Gears
 
 - **Mouse** : `Razer Viper v3 Pro`
-- **Mousepad** : `Steelseries QCK LARGE`
+- **Mousepad** : `Suzuka Chiu 鈴鹿千羽・云迹`
 - **Keyboard** : `Wooting 60HE V2`
 - **Headset** : `Razer Blackshark V2 Pro`
 - **In-Ear** : `QDC Anole V3 II-S`
@@ -59,3 +59,4 @@
 - **HuyaTVLive** **[https://www.huya.com/25153466](HuyaTV)**
 - **Liquipedia** **[https://liquipedia.net/counterstrike/User:QGN](Liquipeida)**
 - **Spotify** **[https://open.spotify.com/user/31s6l3pauue2iasmjieisa73fp74?si=aa78ef1198c74fb8](Spotify)**
+- **AppleMusic** **[https://music.apple.com/profile/qiguai_na](AppleMusic)**
