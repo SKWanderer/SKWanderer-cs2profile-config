@@ -60,3 +60,18 @@
 - **Liquipedia** **[https://liquipedia.net/counterstrike/User:QGN](Liquipeida)**
 - **Spotify** **[https://open.spotify.com/user/31s6l3pauue2iasmjieisa73fp74?si=aa78ef1198c74fb8](Spotify)**
 - **AppleMusic** **[https://music.apple.com/profile/qiguai_na](AppleMusic)**
+
+
+### About Jumpthrow
+
+- **Wootility**:
+
+  Advanced Keys : Dynamic Keystroke(DKS) Settings
+
+  <img width="473" height="407" alt="image" src="https://github.com/user-attachments/assets/7ccacb92-e074-4da1-8b61-7f401a893b0e" />
+
+- **InGame**:
+
+  `bind "c" "-attack"`
+  
+  This setting will affect keyboard typing input
