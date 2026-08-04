@@ -13,7 +13,7 @@
 ### Gears
 
 - **Mouse** : `Razer Viper v3 Pro`
-- **Mousepad** : `Suzuka Chiu 鈴鹿千羽・云迹`
+- **Mousepad** : `Suzuka Chiu 鈴鹿千羽・澪`
 - **Keyboard** : `Wooting 60HE V2`
 - **Headset** : `Razer Blackshark V2 Pro`
 - **In-Ear** : `QDC Anole V3 II-S`
